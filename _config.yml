@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 deploy:
   type: git                        
   repo: https://github.com/BlazerQuasar/BlazerQuasar.github.io.git          
-  branch: masterdeploy:
+  branch: master
         
         
           
